@@ -21,4 +21,4 @@ XML dosyaları ile veri saklama ve yönetme özellikleri içerir.
 
 ```bash
 git clone https://github.com/SemihErgili/OgrenciVeriCRUD.git
-Android Studioya Entegre Edilmesi
+Android Studio’ya Entegre Edilmesi
